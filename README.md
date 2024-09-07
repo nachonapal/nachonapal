@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nachonapal
-- 👀 I’m interested in React Development
-- 📫 How to reach me inapalbusiness@gmail.com
+- 👀 I’m interested in Java/React development
+- 📫 How to reach me:  inapalbusiness@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/napalignacio
 
 
